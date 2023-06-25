@@ -1,0 +1,2 @@
+C:/msys64/usr/bin/ar.exe qc libgetfile.a CMakeFiles/getfile.dir/getfile.cxx.obj
+C:/msys64/usr/bin/ranlib.exe libgetfile.a

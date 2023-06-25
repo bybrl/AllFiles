@@ -1,0 +1,6 @@
+C:/Projects/AllFiles/build/CMakeFiles/allfiles.dir
+C:/Projects/AllFiles/build/CMakeFiles/edit_cache.dir
+C:/Projects/AllFiles/build/CMakeFiles/rebuild_cache.dir
+C:/Projects/AllFiles/build/FileFunctions/CMakeFiles/filefunctions.dir
+C:/Projects/AllFiles/build/FileFunctions/CMakeFiles/edit_cache.dir
+C:/Projects/AllFiles/build/FileFunctions/CMakeFiles/rebuild_cache.dir

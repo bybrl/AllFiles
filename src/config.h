@@ -1,0 +1,2 @@
+#define allfiles_VERSION_MAJOR @allfiles_VERSION_MAJOR@
+#define allfiles_VERSION_MINOR @allfiles_VERSION_MINOR@
