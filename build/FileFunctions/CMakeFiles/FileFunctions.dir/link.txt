@@ -1,2 +1,0 @@
-C:/msys64/usr/bin/ar.exe qc libfilefunctions.a CMakeFiles/filefunctions.dir/filefunctions.cxx.obj CMakeFiles/filefunctions.dir/getfile.cxx.obj
-C:/msys64/usr/bin/ranlib.exe libfilefunctions.a
