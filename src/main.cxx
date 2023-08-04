@@ -12,7 +12,6 @@ static struct cag_option options[] = {
   "show-dotfiles",
   NULL,
   "Shows dotfiles"},
- {'n', "n", NULL, NULL, "Starts normally."},
 
  {'g',
    NULL,
@@ -59,9 +58,6 @@ int main(int argc, char *argv[])
    switch (identifier) {
    case 'd':
      config.show_dotfiles = true;
-     break;
-   case 'n':
-     FileFunctions::getfile(NULL, "normal");
      break;
    case 'g':
      config.guide = true;
